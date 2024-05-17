@@ -1,6 +1,6 @@
 <h1>Apps</h1>
 <h2>Dupla: Francielly e <a href="https://github.com/GustavoSanchesPavani">GustavoSanchesPavani</a></h2>
-<h3>APPS DO PRIMEIRO SEMESTRE:</br>
+<h3>► APPS DO PRIMEIRO SEMESTRE: →Concluido←</br>
 • App 01 - <a href="https://github.com/Francielly0327/React-Native/tree/c0526033e8720ee3d8969b5fb0280341c53b3c7c/meu-perfil">Meu Perfil</a></br>
 • App 02 - <a href="https://github.com/Francielly0327/React-Native/tree/c0526033e8720ee3d8969b5fb0280341c53b3c7c/contador-de-pessoas">Contador de Pessoas</a></br>
 • App 03 - <a href="https://github.com/Francielly0327/React-Native/tree/c0526033e8720ee3d8969b5fb0280341c53b3c7c/multiplicador">Multiplicador</a></br>
@@ -15,7 +15,7 @@
 • App 12 - <a href="https://github.com/Francielly0327/React-Native/tree/c0526033e8720ee3d8969b5fb0280341c53b3c7c/conta-bancaria-vers2">Conta Bancaria (com Stack Navigator)</a></br>
 </h3>
 ----------------------------------------------
-<h3>APPS DO SEGUNDO SEMESTRE: </br>
+<h3>► APPS DO SEGUNDO SEMESTRE: </br>
 • App 13 - <a href="https://github.com/Francielly0327/React-Native/tree/c0526033e8720ee3d8969b5fb0280341c53b3c7c/app-13---anuncios-para-venda-vr2">Anuncios para Venda(com Scroll View e Stack Navigator)</a></br>
 • App 14 - APP com o Gustavo</a></br>
 • App 15 - APP com o Gustavo</a></br>
